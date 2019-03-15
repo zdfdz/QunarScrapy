@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4529a14d-6725-4e22-b996-368ae56093fe" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qunaar/spiders/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="qunaSp.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/qunaar/spiders/qunaSp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+              <folding>
+                <element signature="e#20#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qunar.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qunar.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qunaar/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-270">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qunaar/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qunaar/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;http://travel.qunar.com/p-oi719780-tengwangge?rank=&quot;</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/qunaar/pipelines.py" />
+        <option value="$PROJECT_DIR$/qunaar/items.py" />
+        <option value="$PROJECT_DIR$/qunaar/settings.py" />
+        <option value="$PROJECT_DIR$/qunaar/spiders/qunaSp.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-183" />
+    <option name="y" value="331" />
+    <option name="width" value="1835" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qunaar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qunaar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qunaar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qunaar" type="462c0819:PsiDirectoryNode" />
+              <item name="qunaar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qunaar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qunaar" type="462c0819:PsiDirectoryNode" />
+              <item name="qunaar" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4529a14d-6725-4e22-b996-368ae56093fe" name="Default" comment="" />
+      <created>1552617451975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552617451975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3148148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qunaar/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2618" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret column="1765" lean-forward="true" selection-start-column="1765" selection-end-column="1765" />
+          <folding>
+            <element signature="e#7913#7920#0" expanded="true" />
+            <element signature="e#7924#7931#0" expanded="true" />
+            <element signature="e#13600#13607#0" expanded="true" />
+            <element signature="e#13613#13620#0" expanded="true" />
+            <element signature="e#13636#13643#0" expanded="true" />
+            <element signature="e#13658#13665#0" expanded="true" />
+            <element signature="e#16439#16446#0" expanded="true" />
+            <element signature="e#16461#16468#0" expanded="true" />
+            <element signature="e#16484#16491#0" expanded="true" />
+            <element signature="e#16494#16501#0" expanded="true" />
+            <element signature="e#19171#19178#0" expanded="true" />
+            <element signature="e#19182#19189#0" expanded="true" />
+            <element signature="e#21966#21973#0" expanded="true" />
+            <element signature="e#21976#21983#0" expanded="true" />
+            <element signature="e#24759#24767#0" expanded="true" />
+            <element signature="e#24767#24775#0" expanded="true" />
+            <element signature="e#24867#24875#0" expanded="true" />
+            <element signature="e#24875#24883#0" expanded="true" />
+            <element signature="e#24976#24983#0" expanded="true" />
+            <element signature="e#27606#27613#0" expanded="true" />
+            <element signature="e#27615#27622#0" expanded="true" />
+            <element signature="e#33362#33369#0" expanded="true" />
+            <element signature="e#33409#33416#0" expanded="true" />
+            <element signature="e#41995#42002#0" expanded="true" />
+            <element signature="e#42005#42012#0" expanded="true" />
+            <element signature="e#42046#42053#0" expanded="true" />
+            <element signature="e#42056#42063#0" expanded="true" />
+            <element signature="e#42071#42078#0" expanded="true" />
+            <element signature="e#42082#42089#0" expanded="true" />
+            <element signature="e#44851#44858#0" expanded="true" />
+            <element signature="e#44867#44874#0" expanded="true" />
+            <element signature="e#58886#58893#0" expanded="true" />
+            <element signature="e#58897#58904#0" expanded="true" />
+            <element signature="e#63582#63589#0" expanded="true" />
+            <element signature="e#63608#63615#0" expanded="true" />
+            <element signature="e#65207#65214#0" expanded="true" />
+            <element signature="e#65223#65230#0" expanded="true" />
+            <element signature="e#66958#66965#0" expanded="true" />
+            <element signature="e#66980#66986#0" expanded="true" />
+            <element signature="e#71520#71527#0" expanded="true" />
+            <element signature="e#71527#71534#0" expanded="true" />
+            <element signature="e#71554#71561#0" expanded="true" />
+            <element signature="e#71576#71583#0" expanded="true" />
+            <element signature="e#80078#80100#0" expanded="true" />
+            <element signature="e#80372#80394#0" expanded="true" />
+            <element signature="e#80666#80688#0" expanded="true" />
+            <element signature="e#81362#81368#0" expanded="true" />
+            <element signature="e#82232#82254#0" expanded="true" />
+            <element signature="e#82526#82548#0" expanded="true" />
+            <element signature="e#82820#82842#0" expanded="true" />
+            <element signature="e#83114#83136#0" expanded="true" />
+            <element signature="e#83408#83430#0" expanded="true" />
+            <element signature="e#83702#83724#0" expanded="true" />
+            <element signature="e#83996#84018#0" expanded="true" />
+            <element signature="e#84290#84312#0" expanded="true" />
+            <element signature="e#84986#84992#0" expanded="true" />
+            <element signature="e#85617#85624#0" expanded="true" />
+            <element signature="e#85639#85646#0" expanded="true" />
+            <element signature="e#88648#88656#0" expanded="true" />
+            <element signature="e#88656#88664#0" expanded="true" />
+            <element signature="e#88861#88883#0" expanded="true" />
+            <element signature="e#89155#89177#0" expanded="true" />
+            <element signature="e#89449#89471#0" expanded="true" />
+            <element signature="e#89743#89765#0" expanded="true" />
+            <element signature="e#90037#90059#0" expanded="true" />
+            <element signature="e#90331#90353#0" expanded="true" />
+            <element signature="e#90625#90647#0" expanded="true" />
+            <element signature="e#90919#90941#0" expanded="true" />
+            <element signature="e#91615#91621#0" expanded="true" />
+            <element signature="e#92316#92338#0" expanded="true" />
+            <element signature="e#92610#92632#0" expanded="true" />
+            <element signature="e#92904#92926#0" expanded="true" />
+            <element signature="e#93198#93220#0" expanded="true" />
+            <element signature="e#93492#93514#0" expanded="true" />
+            <element signature="e#93786#93808#0" expanded="true" />
+            <element signature="e#94080#94102#0" expanded="true" />
+            <element signature="e#94374#94396#0" expanded="true" />
+            <element signature="e#95106#95112#0" expanded="true" />
+            <element signature="e#96042#96064#0" expanded="true" />
+            <element signature="e#96336#96358#0" expanded="true" />
+            <element signature="e#96630#96652#0" expanded="true" />
+            <element signature="e#96924#96946#0" expanded="true" />
+            <element signature="e#97218#97240#0" expanded="true" />
+            <element signature="e#97512#97534#0" expanded="true" />
+            <element signature="e#97806#97828#0" expanded="true" />
+            <element signature="e#98502#98508#0" expanded="true" />
+            <element signature="e#99295#99317#0" expanded="true" />
+            <element signature="e#99589#99611#0" expanded="true" />
+            <element signature="e#99883#99905#0" expanded="true" />
+            <element signature="e#100177#100199#0" expanded="true" />
+            <element signature="e#100471#100493#0" expanded="true" />
+            <element signature="e#100765#100787#0" expanded="true" />
+            <element signature="e#101461#101467#0" expanded="true" />
+            <element signature="e#102144#102166#0" expanded="true" />
+            <element signature="e#102438#102460#0" expanded="true" />
+            <element signature="e#102732#102754#0" expanded="true" />
+            <element signature="e#103026#103048#0" expanded="true" />
+            <element signature="e#103722#103728#0" expanded="true" />
+            <element signature="e#105104#105110#0" expanded="true" />
+            <element signature="e#105237#105243#1" expanded="true" />
+            <element signature="e#105370#105376#0" expanded="true" />
+            <element signature="e#108247#108269#0" expanded="true" />
+            <element signature="e#108541#108563#0" expanded="true" />
+            <element signature="e#108835#108857#0" expanded="true" />
+            <element signature="e#109567#109573#0" expanded="true" />
+            <element signature="e#110559#110566#0" expanded="true" />
+            <element signature="e#110581#110588#0" expanded="true" />
+            <element signature="e#110702#110724#0" expanded="true" />
+            <element signature="e#110996#111018#0" expanded="true" />
+            <element signature="e#111290#111312#0" expanded="true" />
+            <element signature="e#111584#111606#0" expanded="true" />
+            <element signature="e#112316#112322#0" expanded="true" />
+            <element signature="e#112916#112923#0" expanded="true" />
+            <element signature="e#112923#112930#0" expanded="true" />
+            <element signature="e#112951#112958#0" expanded="true" />
+            <element signature="e#112973#112980#0" expanded="true" />
+            <element signature="e#113094#113116#0" expanded="true" />
+            <element signature="e#113388#113410#0" expanded="true" />
+            <element signature="e#113682#113704#0" expanded="true" />
+            <element signature="e#114378#114384#0" expanded="true" />
+            <element signature="e#115203#115225#0" expanded="true" />
+            <element signature="e#115497#115519#0" expanded="true" />
+            <element signature="e#115791#115813#0" expanded="true" />
+            <element signature="e#116085#116107#0" expanded="true" />
+            <element signature="e#116379#116401#0" expanded="true" />
+            <element signature="e#116673#116695#0" expanded="true" />
+            <element signature="e#116967#116989#0" expanded="true" />
+            <element signature="e#117261#117283#0" expanded="true" />
+            <element signature="e#117957#117963#0" expanded="true" />
+            <element signature="e#118639#118661#0" expanded="true" />
+            <element signature="e#118933#118955#0" expanded="true" />
+            <element signature="e#119227#119249#0" expanded="true" />
+            <element signature="e#119923#119929#0" expanded="true" />
+            <element signature="e#120612#120634#0" expanded="true" />
+            <element signature="e#120906#120928#0" expanded="true" />
+            <element signature="e#121200#121222#0" expanded="true" />
+            <element signature="e#121494#121516#0" expanded="true" />
+            <element signature="e#121788#121810#0" expanded="true" />
+            <element signature="e#122082#122104#0" expanded="true" />
+            <element signature="e#122376#122398#0" expanded="true" />
+            <element signature="e#122670#122692#0" expanded="true" />
+            <element signature="e#123401#123407#0" expanded="true" />
+            <element signature="e#124222#124244#0" expanded="true" />
+            <element signature="e#124516#124538#0" expanded="true" />
+            <element signature="e#124810#124832#0" expanded="true" />
+            <element signature="e#125104#125126#0" expanded="true" />
+            <element signature="e#125398#125420#0" expanded="true" />
+            <element signature="e#125692#125714#0" expanded="true" />
+            <element signature="e#126423#126429#0" expanded="true" />
+            <element signature="e#127124#127146#0" expanded="true" />
+            <element signature="e#127418#127440#0" expanded="true" />
+            <element signature="e#127712#127734#0" expanded="true" />
+            <element signature="e#128006#128028#0" expanded="true" />
+            <element signature="e#128300#128322#0" expanded="true" />
+            <element signature="e#128594#128616#0" expanded="true" />
+            <element signature="e#128888#128910#0" expanded="true" />
+            <element signature="e#129182#129204#0" expanded="true" />
+            <element signature="e#129878#129884#0" expanded="true" />
+            <element signature="e#130679#130701#0" expanded="true" />
+            <element signature="e#130973#130995#0" expanded="true" />
+            <element signature="e#131267#131289#0" expanded="true" />
+            <element signature="e#131963#131969#0" expanded="true" />
+            <element signature="e#132928#132950#0" expanded="true" />
+            <element signature="e#133222#133244#0" expanded="true" />
+            <element signature="e#133516#133538#0" expanded="true" />
+            <element signature="e#133810#133832#0" expanded="true" />
+            <element signature="e#134104#134126#0" expanded="true" />
+            <element signature="e#134398#134420#0" expanded="true" />
+            <element signature="e#135094#135100#0" expanded="true" />
+            <element signature="e#135631#135638#0" expanded="true" />
+            <element signature="e#135654#135661#0" expanded="true" />
+            <element signature="e#135986#136008#0" expanded="true" />
+            <element signature="e#136280#136302#0" expanded="true" />
+            <element signature="e#136574#136596#0" expanded="true" />
+            <element signature="e#136868#136890#0" expanded="true" />
+            <element signature="e#137162#137184#0" expanded="true" />
+            <element signature="e#137858#137864#0" expanded="true" />
+            <element signature="e#138810#138832#0" expanded="true" />
+            <element signature="e#139104#139126#0" expanded="true" />
+            <element signature="e#139398#139420#0" expanded="true" />
+            <element signature="e#140130#140136#0" expanded="true" />
+            <element signature="e#142096#142101#0" expanded="true" />
+            <element signature="e#142112#142117#0" expanded="true" />
+            <element signature="e#142123#142128#0" expanded="true" />
+            <element signature="e#142139#142144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/mafengwoPy/venv/Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quna.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="32" selection-start-column="18" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/222.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qunaar/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qunaar/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qunaar/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qunaar/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qunar.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qunaar/spiders/qunaSp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+          <folding>
+            <element signature="e#20#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
