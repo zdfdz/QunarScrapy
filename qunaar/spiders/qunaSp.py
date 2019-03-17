@@ -8,20 +8,18 @@ class TcopspSpider(scrapy.Spider):
     name = 'qunarPy'
     allowed_domains = ['http://travel.qunar.com']
     offset = 1
-    url = "http://travel.qunar.com/p-oi719780-tengwangge?rank="
+    url = "http://travel.qunar.com/p-oi712636-bayiqiyijinianguan-0-"
     # 这个是我们最想要的链接
     # http://travel.qunar.com/p-oi719780-tengwangge-1-99?rank=0#lydp
     # start_urls = [url+str(offset)]
     start_urls = [url + str(offset),
-                  # "http://travel.qunar.com/p-oi719780-tengwangge?rank=2",
-                  # "http://travel.qunar.com/p-oi719780-tengwangge?rank=3",
-                  # "http://travel.qunar.com/p-oi719780-tengwangge?rank=4",
-                  # "http://travel.qunar.com/p-oi719780-tengwangge?rank=5",
-                  # "http://travel.qunar.com/p-oi719780-tengwangge?rank=6",
-                  # "http://travel.qunar.com/p-oi719780-tengwangge?rank=7",
-                  # "http://travel.qunar.com/p-oi719780-tengwangge?rank=8",
-                  # "http://travel.qunar.com/p-oi719780-tengwangge?rank=9",
-                  # "http://travel.qunar.com/p-oi719780-tengwangge?rank=10",
+                  # "http://travel.qunar.com/p-oi703469-houtianshamo-1-2?rank=0#lydp",
+                  # "http://travel.qunar.com/p-oi703469-houtianshamo-1-2?rank=0#lydp",
+                  # "http://travel.qunar.com/p-oi703420-poyanghu-1-2?rank=0#lydp",
+                  # "http://travel.qunar.com/p-oi9017377-nanchangzhixingmotian-1-2?rank=0#lydp",
+                  # "http://travel.qunar.com/p-oi712942-qiushuiguangchang-1-2?rank=0#lydp",
+                  # "http://travel.qunar.com/p-oi9502951-nanchangwandazhutileyuan-1-2?rank=0#lydp",
+                  # "http://travel.qunar.com/p-oi9208108-nanchangwandahaiyangle-1-2?rank=0#lydp",
                   ]
 
     def parse(self, response):
@@ -52,7 +50,7 @@ class TcopspSpider(scrapy.Spider):
             yield item
 
         # 被限制了,慎用
-        # if self.offset < 5:
-        #     self.offset += 1
-        #     # print self.offset
-        #     yield scrapy.Request(self.url + str(self.offset), callback=self.parse,dont_filter=True)
+        if self.offset < 50:
+            self.offset += 1
+            # print self.offset
+            yield scrapy.Request(self.url + str(self.offset), callback=self.parse, dont_filter=True)

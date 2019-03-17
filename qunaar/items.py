@@ -13,8 +13,6 @@ class QunaarItem(scrapy.Item):
     cat_user_id = scrapy.Field()
     # 用户名字
     cat_user_name = scrapy.Field()
-    # 地点编号
-    cat_jd_poi = scrapy.Field()
     # 用户评分
     cat_score = scrapy.Field()
     # 用户评论
